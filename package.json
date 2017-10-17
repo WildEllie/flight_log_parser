@@ -6,7 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "bytebuffer": "^5.0.0",
-    "long": "^3.0.1"
+    "long": "^3.0.1",
+    "aws-sdk": "^2.36.0"
   },
   "repository": {
     "type": "git",
